@@ -61,6 +61,7 @@ body{
     width: 1145px;
     grid-column: 2/4;
     grid-row: 2/3;
+    overflow: hidden;
 }
 .profileimg{
     width: 50px;
